@@ -6,3 +6,28 @@ This repository contains material for the ["Statistics Workshop: fundamentals"](
 
 The target group are students and researchers of Biology and related areas who are interested in learning and discussing statistics. Slides of the theoretical lecture can be found in this [link](https://github.com/waltercostamb/statistics/blob/main/stats_workshop.pdf).   
 
+The workshop is 2h 30 min long and is composed of a theoretical and a practical part:
+
+Topics of the theoretical part:
+
+-  What is statistics?
+- Types of variables
+- Distributions
+- Choosing tests
+- Parametric test: t-test
+- Non-parametric test: Mann-Whitney U test
+- p-values
+- Linear regression
+- Correlation: Pearson
+- Correlation: Spearman
+- Set Enrichment Analysis
+- How to continue learning
+
+Topics of the practical part:
+
+- Collect data from [BacDive](https://bacdive.dsmz.de/)
+- Prepare data for t-test
+- Calculate: mean, standard deviation, sample size
+- Calculate t-value
+- Compare t-value to critical value
+- Interpret results
