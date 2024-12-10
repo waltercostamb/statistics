@@ -4,11 +4,9 @@ This repository contains material for the ["Statistics Workshop: fundamentals"](
 
 <img src="https://github.com/waltercostamb/statistics/blob/main/figures/workshop.jpeg" alt="drawing" width="300"/>  
 
-The target group are students and researchers of Biology and related areas who are interested in learning and discussing statistics. Slides of the theoretical lecture can be found in this [link](https://github.com/waltercostamb/statistics/blob/main/stats_workshop.pdf).   
+The target group are students and researchers of Biology and related areas who are interested in learning and discussing statistics. The workshop is 2h 30 min long and is composed of a theoretical and a practical part:
 
-The workshop is 2h 30 min long and is composed of a theoretical and a practical part:
-
-Topics of the theoretical part:
+Slides of the theoretical lecture can be found in this [link](https://github.com/waltercostamb/statistics/blob/main/stats_workshop.pdf). Topics of the lecture are:
 
 -  What is statistics?
 - Types of variables
@@ -23,7 +21,7 @@ Topics of the theoretical part:
 - Set Enrichment Analysis
 - How to continue learning
 
-Topics of the practical part:
+Slides of the practical exercise found in this [link](https://github.com/waltercostamb/statistics/blob/main/practical_exercises.pdf). Topics of the exercise are:
 
 - Collect data from [BacDive](https://bacdive.dsmz.de/)
 - Prepare data for t-test
