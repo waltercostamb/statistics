@@ -21,7 +21,7 @@ Slides of the theoretical lecture can be found in this [link](https://github.com
 - Set Enrichment Analysis
 - How to continue learning
 
-Slides of the practical exercise found in this [link](https://github.com/waltercostamb/statistics/blob/main/practical_exercises.pdf). Topics of the exercise are:
+Slides of the practical exercise will be found in this [link](https://github.com/waltercostamb/statistics/blob/main/practical_exercises.pdf) after 13/12/2024. Topics of the exercise are:
 
 - Collect data from [BacDive](https://bacdive.dsmz.de/)
 - Prepare data for t-test
