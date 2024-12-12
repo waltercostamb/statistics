@@ -29,3 +29,9 @@ Slides of the practical exercise will be found in this [link](https://github.com
 - Calculate t-value
 - Compare t-value to critical value
 - Interpret results
+
+An informative example of usage of the t-test can be found in the high-quality paper ["Evolution and host-specific adaptation of Pseudomonas aeruginosa"](https://www.science.org/doi/10.1126/science.adi0908), by Weimann *et al* 2024. This paper investigates how this bacteria turned out to be a global opportunistic pathogen. Authors found that some isolates of *P. aeruginosa* have a preference for cystic-fibrosis (CF) patients and that these isolates have an increased capacity of surviving inside CF macrophages (a cell of innate immunity).  
+
+<img src="https://github.com/waltercostamb/statistics/blob/main/figures/weimann2024.png" alt="drawing" width="200"/>  
+
+In figure 3B (above), they show in increased survival of the pathogen in CF macrophages. Wild-type *P. aeruginosa* (blue dots in the plot) have a higher survival rate after 4 hours of infection in CF macrophages (right side of plot) than in WT (non-CF) macrophages (left side of plot). This increased survival could be measured by a t-test.
